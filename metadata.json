@@ -1,0 +1,6 @@
+{
+  "name": "Vibe Clube",
+  "description": "A nova rede social brasileira: Conecte-se, faça amigos, descubra comunidades, viva a sua vibe e divirta-se no Arcade.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
